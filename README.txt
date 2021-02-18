@@ -3,7 +3,7 @@
 © FirePLanetStudio
 
 Engine: Unity
-Language: C++
+Language: C#
 Version: 0.1
 
 Сценарии проекта "Основы 2D игр на Unity. На примере игры MemoryCard"
